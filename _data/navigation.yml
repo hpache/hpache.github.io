@@ -6,8 +6,8 @@ main:
     url: /Coding-Projects/
   - title: "Photography"
     url: /photos/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Simulations"
+    url: /sims/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
