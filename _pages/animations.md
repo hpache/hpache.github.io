@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 
-<h1> 
-<a href = "/BZgifs/" > BZ Gifs </a>
-</h1>
+{% for post in site.posts %}
+ {% if post.category == "animation" %}
+  {% include archive-single.html %}
+ {% endif %}
+{% endfor %}
