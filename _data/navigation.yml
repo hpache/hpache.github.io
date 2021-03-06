@@ -2,13 +2,11 @@
 main:
   - title: "Papers"
     url: /Papers/
-  - title: "Coding Projects"
-    url: /Coding-Projects/
-  - title: "Photography"
-    url: /photos/
+  - title: "Projects"
+    url: /Projects/
   - title: "Simulations"
     url: /sims/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "About Me"
+    url: /about-me/
   # - title: "Sitemap"
   #   url: /sitemap/
